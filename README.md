@@ -15,12 +15,15 @@ It uses SMTP for sending SMS. Currently my tool is configurated just for USA ope
 ----
 ```
 Most of the Mobile Service Providers (MSP) support EMAIL2SMS service for their subscribers. 
-Some MSPs gives standard format Email id (Eg. <countrycode><mobilenum>@<serviceprovidermailserver>) for each mobile. 
-When an email is sent from any mail client to the Mobile's Email id, it will be SMSed to the Mobile corresponding to the email id. 
+Some MSPs gives standard format Email id (Eg. <countrycode><mobilenum>@<serviceprovidermailserver>) 
+for each mobile. 
+When an email is sent from any mail client to the Mobile's Email id, it will be SMSed to the Mobile
+corresponding to the email id. 
 Some MSPs provide 2way SMS communications where the mobile user can reply to the email id of the SMS sender.
 This Project uses Python but converted to exe for communicating with a non authenticated/useronly authenticated 
 SMTP Server and sends the SMS to the required Mobile Number.
-The Mobile operators list can be configurable and comes up preconfigured for several USA Mobile Operators like T-Mobile,AT&T,Verizon,Xfinity Mobile,etc.,
+The Mobile operators list can be configurable and comes up preconfigured for several USA Mobile Operators 
+like T-Mobile,AT&T,Verizon,Xfinity Mobile,etc.,
 ```
 *Useful?*
 ----
