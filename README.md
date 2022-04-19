@@ -43,6 +43,7 @@ like T-Mobile,AT&T,Verizon,Xfinity Mobile,etc.,
 ----
 ```
 You can use this tool for :
+* The tool is support MMS/SMS
 * Generate phone numbers
 * validate phone number valid or no
 * Get operator name for each number
