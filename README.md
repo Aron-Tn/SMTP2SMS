@@ -25,6 +25,20 @@ authenticated SMTP Server and sends the SMS to the required Mobile Number.
 The Mobile operators list can be configurable and comes up preconfigured for several USA Mobile Operators 
 like T-Mobile,AT&T,Verizon,Xfinity Mobile,etc.,
 ```
+*Supported operators*
+----
+```
+1]T-Mobile             2]AT&T
+3]Verizon              4]Xfinity Mobile
+5]Virgin Mobile        6]Tracfone
+7]Boost Mobile         8]C-Spire
+9]Consumer Cellular    10]Cricket
+11]Google              12]Mint Mobile
+13]Visible             14]Ting
+15]Republic Wireless   16]Sprint
+17]Simple Mobile       18]Metro PCS
+19]Page Plus           20]U.S. Cellular
+```
 *Useful?*
 ----
 ```
